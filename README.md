@@ -1,4 +1,5 @@
 # data-structures-py
+
 A collection of data structure implementations in Python with object oriented manner
 
 <details>
@@ -15,6 +16,7 @@ A collection of data structure implementations in Python with object oriented ma
 - [9. table.py](./for_n_range_1/table.py)
 - [10. Unique Integer](./for_n_range_1/unique_integer.py)
 - [11. Vowel_only](./for_n_range_1/vowel_only.py)
-
+- [12. Cube of any number](./for_n_range_1/Cube_any.py)
+- [13. Prime in Range](./for_n_range_1/prime_in_range.py)
 
 </details>

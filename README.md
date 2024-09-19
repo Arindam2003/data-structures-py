@@ -20,3 +20,14 @@ A collection of data structure implementations in Python with object oriented ma
 - [13. Prime in Range](./for_n_range_1/prime_in_range.py)
 
 </details>
+
+<details>
+    <summary>✅List</summary>
+
+- [1. Sum of element in a list](./list/sum_of_list_elem.py)
+- [2. Avg of element in a list](./list/avg_list.py)
+- [3. List of Square of number](./list/square_list.py)
+- [4. Sort List in Decending](./list/sort_decending.py)
+- [5. Create a list by even place number](./list/create_list_even_place.py)
+
+</details>

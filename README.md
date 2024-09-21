@@ -29,5 +29,6 @@ A collection of data structure implementations in Python with object oriented ma
 - [3. List of Square of number](./list/square_list.py)
 - [4. Sort List in Decending](./list/sort_decending.py)
 - [5. Create a list by even place number](./list/create_list_even_place.py)
+- [6. First N Even Number List](./list/n_even_list.py)
 
 </details>

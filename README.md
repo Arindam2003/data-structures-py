@@ -30,5 +30,8 @@ A collection of data structure implementations in Python with object oriented ma
 - [4. Sort List in Decending](./list/sort_decending.py)
 - [5. Create a list by even place number](./list/create_list_even_place.py)
 - [6. First N Even Number List](./list/n_even_list.py)
+- [7. N_Prime Number](./list/n_prime.py)
+- [8. Create two list Positive and Non Positive](./list/Pos_non_pos.py)
+- [9. Fibonocii Number List](./list/fibonocii.py)
 
 </details>

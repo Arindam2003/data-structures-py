@@ -35,3 +35,18 @@ A collection of data structure implementations in Python with object oriented ma
 - [9. Fibonocii Number List](./list/fibonocii.py)
 
 </details>
+
+<details>
+    <summary>✅String</summary>
+
+- [1. Check given string has only alphabet or not](./string/alpha_present.py)
+- [2. Check alphabet present or not in string](./string/check_alphabet.py)
+- [3. Count vowel on given string](./string/count_vowel.py)
+- [4. Reverse String](./string/reverse_str.py)
+- [5. Reverse Word Wise](./string/reverse_word.py)
+- [6. Extract the number from a given str and store in list](./string/extract_number.py)
+- [7. Palindrome or Not](./string/palindrome.py)
+- [8. Upper Convert](./string/to_uppercase.py)
+- [9. Find Max Length word](./string/max_len_word.py)
+
+</details>

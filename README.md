@@ -50,3 +50,11 @@ A collection of data structure implementations in Python with object oriented ma
 - [9. Find Max Length word](./string/max_len_word.py)
 
 </details>
+
+<details>
+    <summary>✅Tuple</summary>
+    
+- [1. Convert Tuple from List](./tuple/tuple_from_list.py)
+- [2. REverse Tuple](./tuple/reverse_tuple.py)
+
+</details>
